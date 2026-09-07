@@ -13,4 +13,4 @@ Mostly breaking things in **C, Python, and Linux** just to understand how they w
 
 ### 🔗 Connect
 
-* [LinkedIn](www.linkedin.com/in/muhammad-hamza-naqi-569741403)
+* [LinkedIn](https://www.linkedin.com/in/muhammad-hamza-naqi-569741403/)
